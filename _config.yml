@@ -1,8 +1,9 @@
 ### Site Settings ###
 title               : 오늘의 조이 :>
-description         : >-
-                      누구에게나 쉬운 것을 만들기 위해 고민합니다.\n
-                      당연하지 않은 것들을 당연할 수 있게 💡 만들고 싶은 개발자.\n\n
+description         : |-
+                      누구에게나 쉬운 것을 만들기 위해 고민합니다.
+                      당연하지 않은 것들을 당연할 수 있게 💡 만들고 싶은 개발자.
+                      
                       💻연료: ☕️ / 🐱 / 📚
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : TodaysJoey/TodaysJoey.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
