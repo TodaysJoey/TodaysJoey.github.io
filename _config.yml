@@ -69,12 +69,12 @@ analytics:
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting." # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
+# buymeacoffee:
+#   enabled: false
+#   username: your_username
+#   color: "#007bff"
+#   message: "Thank you for visiting." # Message to be displayed aside from the button for a few seconds.
+#   description: "Support me on Buy me a coffee!"
 
 ### Defaults for collections ###
 defaults:
@@ -83,7 +83,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-
+  - scope:
+      path: ""
+      type: "about"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "posts"
